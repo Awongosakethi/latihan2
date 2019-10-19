@@ -28,7 +28,7 @@
 2. %s konfersi string melalui str () sebelum memformat
 3. %f yaitu bilangan real floating point 
 
-###### Langkah - langkah Mengoperasikannya 
+##### Langkah - langkah Mengoperasikannya 
 1. a=input("masukan nilai a:")
 
 2. b=input("masukan nilai b:") urutan pertama dan kedua ini untuk, meminta kita memasukan angka ke variable a dan b
