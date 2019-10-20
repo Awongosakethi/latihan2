@@ -3,7 +3,7 @@
 ## Operator Pada Python
 1. Operator adalah simbol khusus pada python yang di gunakan untuk perhitungan aritmatika atau logika. Dan nilai yang dihasilkan oleh operator disebut operand.
 
-### Contoh Symbol Operator Aritmatika 
+## Contoh Symbol Operator Aritmatika 
 1. Penjumlahan (+)
 2. Pengurangan (-)
 3. Perkalian (*)
@@ -12,7 +12,7 @@
 6. Pangkat   (**)
 7. Pebagian bulat (//)
 
-#### Berikut Tampilan Syntax yang Benar 
+## Berikut Tampilan Syntax yang Benar 
 - a=input("masukan nilai a:")
 - b=input("masukan nilai b:")
 - print("variable a=" ,a)
@@ -23,12 +23,12 @@
 - print("hasil penjumlahan {0}+{1}=%d" .format(a,b) %(a+b))
 - print("hasil pembagian {0}/{1}=%d" .format(a,b) %(a/b))
 
-##### Penjelasan Operator Format String Python
+## Penjelasan Operator Format String Python
 1. %d dianggap sebagai bilangan bulat desimal 
 2. %s konfersi string melalui str () sebelum memformat
 3. %f yaitu bilangan real floating point 
 
-##### Langkah - langkah Mengoperasikannya 
+## Langkah - langkah Mengoperasikannya 
 1. a=input("masukan nilai a:")
 
 2. b=input("masukan nilai b:") urutan pertama dan kedua ini untuk, meminta kita memasukan angka ke variable a dan b
